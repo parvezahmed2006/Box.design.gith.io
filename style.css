@@ -1,0 +1,33 @@
+.box{
+    height: 7rem;
+    width: 7rem;
+}
+
+#box1{
+background-color: cadetblue;
+border: 10px solid black;
+height: 11rem;
+width: 11rem;
+padding: 20px;
+}
+
+#box2{
+    background-color: rgb(231, 217, 23);
+    border-bottom: 20px solid black;
+    border-top: 20px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    height: 11rem;
+    width: 11rem;
+    margin-left: 14.5rem;
+    padding: 15px;
+}
+
+#box3{
+    background-color: chocolate;
+    border: 9px solid black;
+    height: 10rem;
+    width: 9rem;
+    margin-left:2rem;
+    padding: 20px;
+}
